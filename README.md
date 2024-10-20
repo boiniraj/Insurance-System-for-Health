@@ -73,3 +73,6 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
    ```bash
    git clone https://github.com/boiniraj/Insurance-System-for-Health.git
    cd ISH-Project
+### API Testing (Postman):
+-Import the Postman collection provided in the /postman directory for testing various API endpoints.
+-View API documentation and test endpoints using Swagger UI available at /swagger-ui.html.
