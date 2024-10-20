@@ -1,9 +1,7 @@
-
 # ISH (Insurance System for Health)
 
 ## Project Overview
 ISH (Insurance System for Health) is a fully integrated online platform that allows citizens to apply for various health and insurance plans tailored to their life situations and profiles. The system evaluates citizens' eligibility based on their provided information, enabling a more efficient and streamlined application process.
-
 
 ## Technology Stack
 - **Backend**: Java, J2EE, Spring Boot, Microservices
@@ -69,4 +67,3 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
    ```bash
    git clone https://github.com/yourusername/ISH-Project.git
    cd ISH-Project
-
