@@ -54,11 +54,11 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 ## Installation Instructions
 
 ### Prerequisites
-- Java 11+
+- Java 17
 - Spring Boot
 - Docker
 - AWS Account (for deployment)
-- PostgreSQL (for database)
+- MySQL (for database)
 
 ### Steps to Install
 
