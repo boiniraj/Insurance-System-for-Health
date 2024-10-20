@@ -64,5 +64,5 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ISH-Project.git
+   git clone https://github.com/boiniraj/Insurance-System-for-Health.git
    cd ISH-Project
