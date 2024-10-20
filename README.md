@@ -10,6 +10,7 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 - **Cloud**: AWS for infrastructure management
 - **Version Control**: GitHub
 - **Testing**: JUnit for unit testing
+- **API Documentation & Testing**: Swagger, Postman
 
 ## Key Features
 - Citizens can apply for health and insurance plans online.
@@ -28,6 +29,12 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 2. **Eureka Server**: Service registry for discovering and registering microservices.
 3. **API Gateway**: Manages routing for microservices, providing a unified entry point for clients.
 4. **Admin Server**: Monitors and manages the various microservices, including health checks and application status.
+
+## API Development
+- **RESTful APIs**: A comprehensive set of RESTful APIs were developed to manage user authentication, profile management, application submissions, eligibility determination, and more.
+- **Swagger**: Used for API documentation, providing an interactive interface for testing APIs.
+- **Postman**: Extensively used to test API endpoints, validate responses, and simulate client-server interactions.
+
 
 ## Modules
 1. **Administration Module (Admin)**
