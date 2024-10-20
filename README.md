@@ -5,7 +5,6 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 
 ## Technology Stack
 - **Backend**: Java, J2EE, Spring Boot, Microservices
-- **Frontend**: React
 - **Microservices Architecture**: Config Server, Eureka Server, API Gateway, Admin Server
 - **Containerization**: Docker
 - **Cloud**: AWS for infrastructure management
