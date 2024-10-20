@@ -4,9 +4,11 @@
 ## Project Overview
 ISH (Insurance System for Health) is a fully integrated online platform that allows citizens to apply for various health and insurance plans tailored to their life situations and profiles. The system evaluates citizens' eligibility based on their provided information, enabling a more efficient and streamlined application process.
 
+
 ## Technology Stack
 - **Backend**: Java, J2EE, Spring Boot, Microservices
 - **Frontend**: React
+- **Microservices Architecture**: Config Server, Eureka Server, API Gateway, Admin Server
 - **Containerization**: Docker
 - **Cloud**: AWS for infrastructure management
 - **Version Control**: GitHub
@@ -23,6 +25,12 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 - **Medicaid**: A health insurance plan for citizens with limited income and resources.
 - **Medicare**: Health insurance for citizens over 65 years old.
 - **QHP**: A commercial health insurance plan that citizens can purchase.
+
+## Microservices Architecture
+1. **Config Server**: Centralized configuration management for microservices.
+2. **Eureka Server**: Service registry for discovering and registering microservices.
+3. **API Gateway**: Manages routing for microservices, providing a unified entry point for clients.
+4. **Admin Server**: Monitors and manages the various microservices, including health checks and application status.
 
 ## Modules
 1. **Administration Module (Admin)**
@@ -56,7 +64,9 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 - PostgreSQL (for database)
 
 ### Steps to Install
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/ISH-Project.git
    cd ISH-Project
+
