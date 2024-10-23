@@ -40,6 +40,8 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 1. **Administration Module (Admin)**
    - Manage and update plans and schemes
    - Activate/deactivate accounts of case workers
+     ![PlanApi](images/plan.png "Plan Api")
+     
 2. **User Management Module (UM)**
    - User authentication (Login/Signup)
    - Profile management
