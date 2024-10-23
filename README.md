@@ -73,6 +73,9 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
      
 7. **Benefit Insurance Module (BI)**
    - Send benefit payments to approved citizens
+
+     ![benfit](/images/benfit.png "Approved user send Amount")
+     
 8. **Reports Module**
    - Generate various reports such as daily, weekly, and monthly status reports, and citizen approval/rejection reports.
 
