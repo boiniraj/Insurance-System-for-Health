@@ -54,22 +54,22 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
    - Citizen onboarding for various plans
    - SSN (Social Security Number) verification
 
-     ![User Registrations] (/images/citizenregister.png "User Registration")
+     ![User Registrations](/images/citizenregister.png "UserRegistration")
      
 4. **Data Collection Module (DC)**
    - Collect KYC (Know Your Customer) information, certificates, and documents
 
-     ![userdata] (/images/UserData.png "UserData")
+     ![userdata](/images/UserData.png "UserData")
      
 5. **Eligibility Determination Module (ED)**
    - Match citizen data against plan rules to determine eligibility
 
-     ![Eligibility] (/images/UserEl.png "UserEl")
+     ![Eligibility](/images/UserEl.png "UserEl")
      
 6. **Correspondence Module (CO)**
    - Send notifications and notices to citizens via email
 
-     ![cotriggers] (/images/cotriggers.png "cotriggers")
+     ![cotriggers](/images/cotriggers.png "cotriggers")
      
 7. **Benefit Insurance Module (BI)**
    - Send benefit payments to approved citizens
