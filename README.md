@@ -27,8 +27,13 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 ## Microservices Architecture
 1. **Config Server**: Centralized configuration management for microservices.
 2. **Eureka Server**: Service registry for discovering and registering microservices.
-3. **API Gateway**: Manages routing for microservices, providing a unified entry point for clients.
-4. **Admin Server**: Monitors and manages the various microservices, including health checks and application status.
+
+3. ![Eureka server](/images/eureka.png "eureka")
+   
+5. **API Gateway**: Manages routing for microservices, providing a unified entry point for clients.
+7. **Admin Server**: Monitors and manages the various microservices, including health checks and application status.
+
+   ![Admin server](/images/Admin.png "Admin")
 
 ## API Development
 - **RESTful APIs**: A comprehensive set of RESTful APIs were developed to manage user authentication, profile management, application submissions, eligibility determination, and more.
