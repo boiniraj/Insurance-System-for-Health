@@ -28,12 +28,12 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 1. **Config Server**: Centralized configuration management for microservices.
 2. **Eureka Server**: Service registry for discovering and registering microservices.
 
-3. ![Eureka server](/images/eureka.png "eureka")
+![Eureka server](/images/eureka.png "eureka")
    
 5. **API Gateway**: Manages routing for microservices, providing a unified entry point for clients.
 7. **Admin Server**: Monitors and manages the various microservices, including health checks and application status.
 
-   ![Admin server](/images/Admin.png "Admin")
+![Admin server](/images/Admin.png "Admin")
 
 ## API Development
 - **RESTful APIs**: A comprehensive set of RESTful APIs were developed to manage user authentication, profile management, application submissions, eligibility determination, and more.
@@ -46,30 +46,30 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
    - Manage and update plans and schemes
    - Activate/deactivate accounts of case workers
      
-     ![PlanApi](/images/plans.png "Plan Api")
+   ![PlanApi](/images/plans.png "Plan Api")
      
 2. **User Management Module (UM)**
    - User authentication (Login/Signup)
    - Profile management
    - Forgot password and dashboard functionality
      
-     ![Register/Lgin](/images/usermangament.png "UserData")
+   ![Register/Lgin](/images/usermangament.png "UserData")
      
 3. **Application Registration Module (AR)**
    - Citizen onboarding for various plans
    - SSN (Social Security Number) verification
 
-     ![User Registrations](/images/citizenregister.png "UserRegistration")
+   ![User Registrations](/images/citizenregister.png "UserRegistration")
      
 4. **Data Collection Module (DC)**
    - Collect KYC (Know Your Customer) information, certificates, and documents
 
-     ![userdata](/images/UserData.png "UserData")
+   ![userdata](/images/UserData.png "UserData")
      
 5. **Eligibility Determination Module (ED)**
    - Match citizen data against plan rules to determine eligibility
 
-     ![Eligibility](/images/UserEl.png "UserEl")
+   ![Eligibility](/images/UserEl.png "UserEl")
      
 6. **Correspondence Module (CO)**
    - Send notifications and notices to citizens via email
@@ -79,7 +79,7 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 7. **Benefit Insurance Module (BI)**
    - Send benefit payments to approved citizens
 
-     ![benfit](/images/benfit.png "Approved user send Amount")
+   ![benfit](/images/benfit.png "Approved user send Amount")
      
 8. **Reports Module**
    - Generate various reports such as daily, weekly, and monthly status reports, and citizen approval/rejection reports.
